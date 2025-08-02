@@ -1,0 +1,45 @@
+2025-08-02 19:48:20,634 - Task <function fetchingData at 0x1010b6980> started.
+2025-08-02 19:48:20,634 - Task <function fileProcessing at 0x1010b6ac0> started.
+2025-08-02 19:48:20,634 - Task <function logWriting at 0x1010b6c00> started.
+2025-08-02 19:48:21,635 - Wrote logs for task 0
+2025-08-02 19:48:21,636 - Task <function logWriting at 0x1010b6c00> finished in 1.0012669563293457 seconds.
+2025-08-02 19:48:21,636 - Task <function fetchingData at 0x1010b6980> started.
+2025-08-02 19:48:22,636 - Downloaded data for task 0
+2025-08-02 19:48:22,636 - Task <function fetchingData at 0x1010b6980> finished in 2.0017549991607666 seconds.
+2025-08-02 19:48:22,636 - Task <function fileProcessing at 0x1010b6ac0> started.
+2025-08-02 19:48:23,636 - Processed file for task 0
+2025-08-02 19:48:23,636 - Task <function fileProcessing at 0x1010b6ac0> finished in 3.001589059829712 seconds.
+2025-08-02 19:48:23,636 - Task <function logWriting at 0x1010b6c00> started.
+2025-08-02 19:48:23,636 - Downloaded data for task 1
+2025-08-02 19:48:23,636 - Task <function fetchingData at 0x1010b6980> finished in 2.000598907470703 seconds.
+2025-08-02 19:48:23,636 - Task <function fetchingData at 0x1010b6980> started.
+2025-08-02 19:48:24,637 - Wrote logs for task 1
+2025-08-02 19:48:24,638 - Task <function logWriting at 0x1010b6c00> finished in 1.0015089511871338 seconds.
+2025-08-02 19:48:24,638 - Task <function fileProcessing at 0x1010b6ac0> started.
+2025-08-02 19:48:25,637 - Processed file for task 1
+2025-08-02 19:48:25,637 - Task <function fileProcessing at 0x1010b6ac0> finished in 3.0013959407806396 seconds.
+2025-08-02 19:48:25,638 - Task <function logWriting at 0x1010b6c00> started.
+2025-08-02 19:48:25,638 - Downloaded data for task 2
+2025-08-02 19:48:25,638 - Task <function fetchingData at 0x1010b6980> finished in 2.001309871673584 seconds.
+2025-08-02 19:48:25,638 - Task <function fetchingData at 0x1010b6980> started.
+2025-08-02 19:48:26,639 - Wrote logs for task 2
+2025-08-02 19:48:26,639 - Task <function logWriting at 0x1010b6c00> finished in 1.001173973083496 seconds.
+2025-08-02 19:48:26,639 - Task <function fileProcessing at 0x1010b6ac0> started.
+2025-08-02 19:48:27,639 - Processed file for task 2
+2025-08-02 19:48:27,640 - Task <function fileProcessing at 0x1010b6ac0> finished in 3.0022189617156982 seconds.
+2025-08-02 19:48:27,640 - Task <function logWriting at 0x1010b6c00> started.
+2025-08-02 19:48:27,640 - Downloaded data for task 3
+2025-08-02 19:48:27,640 - Task <function fetchingData at 0x1010b6980> finished in 2.002635955810547 seconds.
+2025-08-02 19:48:27,640 - Task <function fetchingData at 0x1010b6980> started.
+2025-08-02 19:48:28,641 - Wrote logs for task 3
+2025-08-02 19:48:28,642 - Task <function logWriting at 0x1010b6c00> finished in 1.0014879703521729 seconds.
+2025-08-02 19:48:28,642 - Task <function fileProcessing at 0x1010b6ac0> started.
+2025-08-02 19:48:29,640 - Processed file for task 3
+2025-08-02 19:48:29,641 - Task <function fileProcessing at 0x1010b6ac0> finished in 3.0018019676208496 seconds.
+2025-08-02 19:48:29,641 - Task <function logWriting at 0x1010b6c00> started.
+2025-08-02 19:48:29,641 - Downloaded data for task 4
+2025-08-02 19:48:29,641 - Task <function fetchingData at 0x1010b6980> finished in 2.0007379055023193 seconds.
+2025-08-02 19:48:30,642 - Wrote logs for task 4
+2025-08-02 19:48:30,643 - Task <function logWriting at 0x1010b6c00> finished in 1.0018548965454102 seconds.
+2025-08-02 19:48:31,642 - Processed file for task 4
+2025-08-02 19:48:31,642 - Task <function fileProcessing at 0x1010b6ac0> finished in 3.0007381439208984 seconds.
